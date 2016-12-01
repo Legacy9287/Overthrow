@@ -1,0 +1,20 @@
+/*
+Grab data:
+Mission: Town%20Main%20Road%20Containment%20CP
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_BarGate_F",[3.43774,5.21541e-007,0],0,1,0,[],"","",true,false], 
+	["Land_HBarrier_01_line_1_green_F",[-5,-0.00750002,0],0,1,0,[],"","",true,false], 
+	["Land_BagFence_01_round_green_F",[5.81091,3.0362,-0.00130129],140,1,0,[],"","",true,false], 
+	["Land_BagFence_01_round_green_F",[5.76246,-2.99554,-0.00130129],40,1,0,[],"","",true,false], 
+	["B_HMG_01_high_F",[9,3.5,-0.0749998],0,1,0,[],"","",true,false], 
+	["B_HMG_01_high_F",[9,-3.5,-0.0749998],180,1,0,[],"","",true,false], 
+	["Land_BagBunker_01_small_green_F",[9.00011,4.55552,0],180,1,0,[],"","",true,false], 
+	["Land_BagBunker_01_small_green_F",[8.99989,-4.55552,0],0,1,0,[],"","",true,false], 
+	["Land_HBarrier_01_line_5_green_F",[10.9962,0.0187461,0],90,1,0,[],"","",true,false], 
+]
