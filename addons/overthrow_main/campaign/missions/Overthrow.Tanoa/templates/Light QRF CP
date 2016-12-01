@@ -1,0 +1,21 @@
+/*
+Grab data:
+Mission: Light%20Mined%20CP
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_BagFence_01_long_green_F",[-4.98445,-7.99182,-0.000999928],90,1,0,[],"","",true,false], 
+	["Land_BagFence_01_long_green_F",[5.01555,8.00818,-0.000999928],90,1,0,[],"","",true,false], 
+	["Land_BarGate_F",[3.43774,10,0],0,1,0,[],"","",true,false], 
+	["Land_BarGate_F",[3.43774,-10,0],0,1,0,[],"","",true,false], 
+	["Land_BagFence_01_long_green_F",[-6.98445,-7.99182,-0.000999928],90,1,0,[],"","",true,false], 
+	["Land_BagFence_01_long_green_F",[7.01555,8.00818,-0.000999928],90,1,0,[],"","",true,false], 
+	["B_HMG_01_high_F",[-6,-9,-0.0749998],180,1,0,[],"","",true,false], 
+	["B_HMG_01_high_F",[6,9,-0.0749998],0,1,0,[],"","",true,false], 
+	["Land_BagFence_01_round_green_F",[6.03162,10.0207,-0.00130129],180,1,0,[],"","",true,false], 
+	["Land_BagFence_01_round_green_F",[-6.03162,-10.0207,-0.00130129],0,1,0,[],"","",true,false], 
+]
