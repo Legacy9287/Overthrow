@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)StoneHouse%20-%20Brown%20MC
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_MetalCase_01_small_F",[-0.00356436,-0.717787,1.43051e-006],87.7661,1,0,[],"","",true,false], 
+	["Land_i_Stone_HouseSmall_V3_F",[-0.00910091,1.51609,0],0,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[-0.0214553,4.53564,6.4373e-005],41.9238,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[-9.11516,-0.162226,5.91278e-005],270,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[-8.97683,4.24889,0.00625277],0,1,0,[],"","",true,false], 
+]
