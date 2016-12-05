@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)House%20-%20White%20HC
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_i_House_Small_01_V1_F",[0.205914,-0.635863,0],0,1,0,[],"","",true,false], 
+	["Land_MetalCase_01_small_F",[1.234,-1.01,6.00815e-005],0,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[0.83608,-2.65109,-6.00815e-005],0,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[-3.91655,0.73112,-6.4373e-005],325.719,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[-4.04643,-3.53958,0],270,1,0,[],"","",true,false], 
+]
