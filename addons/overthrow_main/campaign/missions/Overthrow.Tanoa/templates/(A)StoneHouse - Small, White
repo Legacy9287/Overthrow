@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)StoneHouse%20-%20Small,%20White
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_i_Stone_Shed_V3_F",[-0.43765,1.18713,0],0,1,0,[],"","",true,false], 
+	["Land_MetalCase_01_small_F",[0.152741,-0.47675,0],87.7661,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[-3.26754,-0.29503,0],0,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[2.6532,3.80354,0],0,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[-3.35608,3.84613,-0.26],314.455,1,0,[],"","",true,false], 
+]
