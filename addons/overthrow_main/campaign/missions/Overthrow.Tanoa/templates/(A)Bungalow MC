@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)Bungalow%20-%20MC
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_i_House_Small_03_V1_F",[-0.0436952,0.0556927,0],0,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[1.19878,4.35051,0],0,1,0,[],"","",true,false], 
+	["Land_MetalCase_01_small_F",[-1.40517,4.49001,0],0,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[-4.7745,-1.68281,0],0,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[-4.56859,4.48649,-0.32],358.851,1,0,[],"","",true,false], 
+]
