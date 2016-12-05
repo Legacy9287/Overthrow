@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)SlumHouse%20Container
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_cargo_house_slum_F",[-1.77455,-0.261288,0],0,1,0,[],"","",true,false], 
+	["Land_MetalCase_01_small_F",[-0.961409,-1.08932,0],90,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[0.584247,-0.865941,0],138.208,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[-4.25758,0.38848,0],270,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[-4.12318,-0.746242,0],0,1,0,[],"","",true,false], 
+]
