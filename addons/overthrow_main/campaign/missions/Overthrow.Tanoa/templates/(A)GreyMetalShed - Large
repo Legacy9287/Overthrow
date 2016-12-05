@@ -1,0 +1,16 @@
+/*
+Grab data:
+Mission: (A)Grey%20Metal%20Shed%20-%20Large
+World: VR
+Anchor position: [0, 0]
+Area size: 50
+Using orientation of objects: no
+*/
+
+[
+	["Land_Metal_Shed_F",[0.00528216,-1.49031,0],0,1,0,[],"","",true,false], 
+	["Land_MetalCase_01_small_F",[-1.11044,-3.79815,0],93.8422,1,0,[],"","",true,false], 
+	["Land_MapBoard_F",[-4.27027,0.0280385,0],307.687,1,0,[],"","",true,false], 
+	["Land_Sleeping_bag_F",[4.37109,0.00231302,0],0,1,0,[],"","",true,false], 
+	["I_supplyCrate_F",[3.86955,-3.33993,0],0,1,0,[],"","",true,false], 
+]
